@@ -37,10 +37,11 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
-```
+
 ![Screenshot 2025-04-23 160009](https://github.com/user-attachments/assets/8df5ac31-6106-4cb4-8b42-4b3acb775fda)
 ![Screenshot 2025-04-23 160024](https://github.com/user-attachments/assets/0868e24e-eb21-4b48-ad0c-ed618c9d848c)
-```
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -79,14 +80,14 @@ ii)HALF SUBTRACTOR
 ```
 
 **RTL Schematic**
-```
+
 ![Screenshot 2025-04-23 160049](https://github.com/user-attachments/assets/c3dd2650-f3a3-46c4-816b-0dbd0d7035c2)
 ![Screenshot 2025-04-23 160113](https://github.com/user-attachments/assets/4425f712-8627-490b-954f-cb6a65a57315)
-```
+
 **Output/TIMING Waveform**
-```
+
 ![Screenshot 2025-04-23 160128](https://github.com/user-attachments/assets/169712b9-24de-4c37-bc5e-51ddb126923c)
 ![Screenshot 2025-04-23 160142](https://github.com/user-attachments/assets/d44ef0b6-0f1b-4e52-8a6c-752cc6e17773)
-```
+
 **Result:**
 Thus the Half -adder and Half subtractor are studied and truth table and logic gates are verified successfully.
